@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 정정희</h1>
-<h3 align="center">예비 개발자</h3>
+<h1 align="center">Hi 👋, I'm HEEGGU</h1>
+<h3 align="center">개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxxggu&label=Profile%20views&color=0e75b6&style=flat" alt="hxxggu" /> </p>
 
